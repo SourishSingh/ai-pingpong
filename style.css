@@ -1,0 +1,23 @@
+.heading{
+    width: 100%;
+    text-align: left;
+    height: 5em;
+}
+.heading h3{
+    display:inline;
+}
+.big_image{
+    width: 100%;
+}
+#start,#status{
+    font-size: 22px;
+}
+.heading button{
+    float: right;
+    border: 1px solid white;
+}
+#s{
+    width: 100%;
+    height: 55em;
+    background: linear-gradient(to bottom, #33ccff 0%, #ccff66 100%);
+}
